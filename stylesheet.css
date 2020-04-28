@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ocean Rush DEMO';
+    src: url('OceanRushDEMO.woff2') format('woff2'),
+        url('OceanRushDEMO.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
